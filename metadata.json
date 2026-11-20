@@ -1,0 +1,6 @@
+{
+  "name": "Layar2D Studio",
+  "description": "Aplikasi frontend studio animasi 2D lokal untuk mengelola proyek, aset, storyline, konfigurasi video, render, dan hasil ekspor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
